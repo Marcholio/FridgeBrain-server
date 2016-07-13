@@ -7,7 +7,6 @@ import MediaTypes._
 import java.io.File
 import java.io.FileOutputStream
 import com.markustyrkko.FridgeBrain.Brain
-import com.markustyrkko.FridgeBrain.Drink
 
 // we don't implement our route structure directly in the service actor because
 // we want to be able to test it independently, without having to spin up an actor
